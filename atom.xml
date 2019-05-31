@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://253752742.github.io</id>
     <title>放声的石头</title>
-    <updated>2019-05-31T08:25:52.879Z</updated>
+    <updated>2019-05-31T08:27:32.801Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://253752742.github.io"/>
     <link rel="self" href="https://253752742.github.io/atom.xml"/>
@@ -10,19 +10,6 @@
     <logo>https://253752742.github.io/images/avatar.png</logo>
     <icon>https://253752742.github.io/favicon.ico</icon>
     <rights>All rights reserved 2019, 放声的石头</rights>
-    <entry>
-        <title type="html"><![CDATA[ceshi ceshi]]></title>
-        <id>https://253752742.github.io/post/ceshi-ceshi</id>
-        <link href="https://253752742.github.io/post/ceshi-ceshi">
-        </link>
-        <updated>2019-05-31T08:24:58.000Z</updated>
-        <summary type="html"><![CDATA[<p>alsdjsaldjsadsaljdsad</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>alsdjsaldjsadsaljdsad</p>
-<!--more-->
-<p>测试文章</p>
-]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[我喜欢瞧你生活在这世界里]]></title>
         <id>https://253752742.github.io/post/wo-xi-huan-qiao-ni-sheng-huo-zai-zhe-shi-jie-li</id>
