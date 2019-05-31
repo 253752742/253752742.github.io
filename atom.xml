@@ -1,19 +1,49 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>/Users/mengjinlei/Documents/Gridea/output</id>
+    <id>https://253752742.github.io</id>
     <title>放声的石头</title>
-    <updated>2019-05-31T07:45:16.098Z</updated>
+    <updated>2019-05-31T08:02:39.424Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="/Users/mengjinlei/Documents/Gridea/output"/>
-    <link rel="self" href="/Users/mengjinlei/Documents/Gridea/output/atom.xml"/>
+    <link rel="alternate" href="https://253752742.github.io"/>
+    <link rel="self" href="https://253752742.github.io/atom.xml"/>
     <subtitle>每天都要努力一点！</subtitle>
-    <logo>/Users/mengjinlei/Documents/Gridea/output/images/avatar.png</logo>
-    <icon>/Users/mengjinlei/Documents/Gridea/output/favicon.ico</icon>
+    <logo>https://253752742.github.io/images/avatar.png</logo>
+    <icon>https://253752742.github.io/favicon.ico</icon>
     <rights>All rights reserved 2019, 放声的石头</rights>
     <entry>
+        <title type="html"><![CDATA[我喜欢瞧你生活在这世界里]]></title>
+        <id>https://253752742.github.io/post/wo-xi-huan-qiao-ni-sheng-huo-zai-zhe-shi-jie-li</id>
+        <link href="https://253752742.github.io/post/wo-xi-huan-qiao-ni-sheng-huo-zai-zhe-shi-jie-li">
+        </link>
+        <updated>2019-05-31T08:00:13.000Z</updated>
+        <summary type="html"><![CDATA[<p>其实生活中最值得珍藏的瞬间，总是发生在细微的部分，就像一个眼神，除非有心人不能察觉。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>其实生活中最值得珍藏的瞬间，总是发生在细微的部分，就像一个眼神，除非有心人不能察觉。</p>
+<!-- more -->
+<p>我喜欢看你将椅子后仰
+以至你几乎跌倒，但没有——
+你手臂向后，漂亮的手
+插在印花口袋里</p>
+<p>美丽、傲慢，
+准备投入生活
+一场未发作的风雨。</p>
+<p>我喜欢看你孩子般的笑容，
+这是向我们两三人致敬</p>
+<p>有时在生活中
+事物似在移动
+但他们没有，
+他们没有在
+那里。
+你在那里。</p>
+<p>你的声音是被倾听的音乐
+你的行为是联合和加强。</p>
+<p>我喜欢瞧你生活在这世界里。</p>
+]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[第一篇文章]]></title>
-        <id>/Users/mengjinlei/Documents/Gridea/output/post/di-yi-pian-wen-zhang/index.html</id>
-        <link href="/Users/mengjinlei/Documents/Gridea/output/post/di-yi-pian-wen-zhang/index.html">
+        <id>https://253752742.github.io/post/di-yi-pian-wen-zhang</id>
+        <link href="https://253752742.github.io/post/di-yi-pian-wen-zhang">
         </link>
         <updated>2019-05-30T10:05:29.000Z</updated>
         <summary type="html"><![CDATA[<p>从未离开　我已不认识故乡
@@ -42,8 +72,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[梦里不知身是客，一晌贪欢]]></title>
-        <id>/Users/mengjinlei/Documents/Gridea/output/post/about/index.html</id>
-        <link href="/Users/mengjinlei/Documents/Gridea/output/post/about/index.html">
+        <id>https://253752742.github.io/post/about</id>
+        <link href="https://253752742.github.io/post/about">
         </link>
         <updated>2019-01-25T11:09:48.000Z</updated>
         <summary type="html"><![CDATA[<p>薄荷酒的绿
@@ -80,8 +110,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>/Users/mengjinlei/Documents/Gridea/output/post/hello-gridea/index.html</id>
-        <link href="/Users/mengjinlei/Documents/Gridea/output/post/hello-gridea/index.html">
+        <id>https://253752742.github.io/post/hello-gridea</id>
+        <link href="https://253752742.github.io/post/hello-gridea">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
