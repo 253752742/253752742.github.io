@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://253752742.github.io</id>
     <title>放声的石头</title>
-    <updated>2019-05-31T08:27:32.801Z</updated>
+    <updated>2019-06-04T12:26:35.073Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://253752742.github.io"/>
     <link rel="self" href="https://253752742.github.io/atom.xml"/>
@@ -84,9 +84,9 @@
 柠檬的黄
 松松地浮在上面</p>
 <!-- more --> 
-<p>薄荷酒的绿
-柠檬的黄
-松松地浮在上面
+<p>薄荷酒的绿<br>
+柠檬的黄<br>
+松松地浮在上面<br>
 元麦：
 ###一大块一大块
 切好的蛋糕
